@@ -8,6 +8,7 @@ Then you should change your file name from 35 to 36 such as _nv_infer_bindings.c
 Because my py is 3.6 and python in TensorRT3 release is 3.5. 
 
 And the path is in your anaconda path such as :
+
 (1):/home/zhu/anaconda3/lib/python3.6/site-packages/tensorrt/infer: _nv_infer_bindings.cpython-36m-x86_64-linux-gnu.so
 
 (2):/home/zhu/anaconda3/lib/python3.6/site-packages/tensorrt/parsers/caffeparser: _nv_caffe_parser_bindings.cpython-36m-x86_64-linux-gnu.so
