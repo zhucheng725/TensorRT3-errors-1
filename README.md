@@ -9,7 +9,12 @@ Because my py is 3.6 and python in TensorRT3 release is 3.5.
 
 And the path is in your anaconda path such as :
 (1):/home/zhu/anaconda3/lib/python3.6/site-packages/tensorrt/infer: _nv_infer_bindings.cpython-36m-x86_64-linux-gnu.so
+
 (2):/home/zhu/anaconda3/lib/python3.6/site-packages/tensorrt/parsers/caffeparser: _nv_caffe_parser_bindings.cpython-36m-x86_64-linux-gnu.so
+
 (3):/home/zhu/anaconda3/lib/python3.6/site-packages/tensorrt/parsers/uffparser: _nv_uff_parser_bindings.cpython-36m-x86_64-linux-gnu.so
+
 (4):/home/zhu/anaconda3/lib/python3.6/site-packages/tensorrt/plugins:_nv_infer_plugin_bindings.cpython-36m-x86_64-linux-gnu.so
+
 (5):/home/zhu/anaconda3/lib/python3.6/site-packages/tensorrt/utils : _nv_utils_bindings.cpython-36m-x86_64-linux-gnu.so
+
